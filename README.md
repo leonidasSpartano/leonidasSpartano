@@ -14,7 +14,7 @@
 <h2 align="center">⚒️ Languajes y Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,express,java,python,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,express,java,python,bootstrap,visualstudio,php,mysql" /><br>
   <!-- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" /> -->
 </div>
 
