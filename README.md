@@ -14,7 +14,7 @@
 <h2 align="center">⚒️ Languajes y Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,express,java" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,express,java,python,bootstrap" /><br>
   <!-- <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" /> -->
 </div>
 
@@ -23,6 +23,10 @@
   <img src="https://ciberestetica.wordpress.com/wp-content/uploads/2019/12/7e490-gif2btunel2bcromatico2b1.gif">
 </p>
 
+<hr/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/uIN4bqO3iTYAAAAd/charmander-mad-mander.gif">
+</p>
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 
