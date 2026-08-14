@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://ciberestetica.wordpress.com/wp-content/uploads/2019/12/7e490-gif2btunel2bcromatico2b1.gif">
-</p>
-
 <div align="center">
   <h2>Estudiante De Ingenieria en Informatica</h2>
   <p>
@@ -23,6 +19,10 @@
 </div>
 
 <hr/>
+<p align="center">
+  <img src="https://ciberestetica.wordpress.com/wp-content/uploads/2019/12/7e490-gif2btunel2bcromatico2b1.gif">
+</p>
+
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 
